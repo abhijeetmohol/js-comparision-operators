@@ -1,0 +1,11 @@
+*{
+    margin:0px;
+    /* padding:0px; */
+}
+ul{
+    background: linear-gradient(black,gray);
+    color: azure;
+}
+h1{
+    text-align:center;
+}
